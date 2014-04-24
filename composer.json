@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3.3",
         "goalio/goalio-rememberme": "dev-master",
-        "doctrine/doctrine-orm-module": "dev-master"
+        "doctrine/doctrine-orm-module" : "0.*"
     },
     "autoload": {
         "psr-0": {
